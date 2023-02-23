@@ -6,7 +6,7 @@ export default function Document() {
     <Html>
       <Head />
       <body>
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-HTREK2F92R"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MEZBFHSH38"></script>
         <Main />
         <NextScript />
       </body>
